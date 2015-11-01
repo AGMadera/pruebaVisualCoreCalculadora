@@ -1,0 +1,24 @@
+c:\users\t-\documents\visual studio 2012\Projects\claculadora\claculadora\bin\Debug\claculadora.exe.config
+c:\users\t-\documents\visual studio 2012\Projects\claculadora\claculadora\bin\Debug\claculadora.exe
+c:\users\t-\documents\visual studio 2012\Projects\claculadora\claculadora\bin\Debug\claculadora.pdb
+c:\users\t-\documents\visual studio 2012\Projects\claculadora\claculadora\bin\Debug\claculadora.xml
+c:\users\t-\documents\visual studio 2012\Projects\claculadora\claculadora\obj\Debug\claculadora.Form1.resources
+c:\users\t-\documents\visual studio 2012\Projects\claculadora\claculadora\obj\Debug\claculadora.Resources.resources
+c:\users\t-\documents\visual studio 2012\Projects\claculadora\claculadora\obj\Debug\claculadora.vbproj.GenerateResource.Cache
+c:\users\t-\documents\visual studio 2012\Projects\claculadora\claculadora\obj\Debug\claculadora.exe
+c:\users\t-\documents\visual studio 2012\Projects\claculadora\claculadora\obj\Debug\claculadora.xml
+c:\users\t-\documents\visual studio 2012\Projects\claculadora\claculadora\obj\Debug\claculadora.pdb
+E:\eventos\Nueva carpeta\claculadora\claculadora\bin\Debug\claculadora.exe.config
+E:\eventos\Nueva carpeta\claculadora\claculadora\obj\Debug\claculadora.exe
+E:\eventos\Nueva carpeta\claculadora\claculadora\obj\Debug\claculadora.xml
+E:\eventos\Nueva carpeta\claculadora\claculadora\obj\Debug\claculadora.pdb
+E:\eventos\Nueva carpeta\claculadora\claculadora\bin\Debug\claculadora.exe
+E:\eventos\Nueva carpeta\claculadora\claculadora\bin\Debug\claculadora.pdb
+E:\eventos\Nueva carpeta\claculadora\claculadora\bin\Debug\claculadora.xml
+E:\eventos\Nueva carpeta\claculadora\claculadora\obj\Debug\claculadora.Form1.resources
+E:\eventos\Nueva carpeta\claculadora\claculadora\obj\Debug\claculadora.Resources.resources
+E:\eventos\Nueva carpeta\claculadora\claculadora\obj\Debug\claculadora.vbproj.GenerateResource.Cache
+E:\POE\claculadora\claculadora\bin\Debug\claculadora.exe.config
+E:\POE\claculadora\claculadora\obj\Debug\claculadora.exe
+E:\POE\claculadora\claculadora\obj\Debug\claculadora.xml
+E:\POE\claculadora\claculadora\obj\Debug\claculadora.pdb
