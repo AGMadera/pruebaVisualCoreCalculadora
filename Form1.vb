@@ -13,7 +13,7 @@
     End Sub
 
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
-        TextBox1.Text = TextBox1.Text & "3  "
+        TextBox1.Text = TextBox1.Text & "3"
     End Sub
 
     Private Sub Button9_Click(sender As Object, e As EventArgs) Handles Button9.Click
